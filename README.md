@@ -1,9 +1,3 @@
-# About this repo
+# Learn SOLID Principles - An Introduction to SOLID Principles
 
-This is the codebase of the **Learn SOLID Principles** course.
-
-If you're already a student of the course you can start exploring this through the lesson notes in the course.
-
-Note that the code for each module is hosted on its own branch, you'll have to switch to the branch corresponding to the module you're on, for example: `git checkout module1`
-
-If you're not a student, you can get access to the courses here:
+This is the codebase for Module "An Introduction to SOLID Principles" of Learn SOLID Principles
