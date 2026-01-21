@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <description>The 'Learn SOLID Principles' Course: O</description>
-    <name>solid-principles-o</name>
+    <description>The 'Learn SOLID Principles' Course: L</description>
+    <name>solid-principles-l</name>
 
     <groupId>com.baeldung</groupId>
-    <artifactId>lsol-o</artifactId>
+    <artifactId>lsol-l</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
