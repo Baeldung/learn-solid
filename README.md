@@ -1,3 +1,3 @@
-# Learn SOLID Principles - S
+# Learn SOLID Principles - O
 
-This is the codebase for Module "S" of Learn SOLID Principles
+This is the codebase for Module "O" of Learn SOLID Principles
