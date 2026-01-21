@@ -1,3 +1,3 @@
-# Learn SOLID Principles - I
+# Learn SOLID Principles - D
 
-This is the codebase for Module "I" of Learn SOLID Principles
+This is the codebase for Module "D" of Learn SOLID Principles
