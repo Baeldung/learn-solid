@@ -12,5 +12,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>dip-in-practice-start</module>
+        <module>dip-in-practice-end</module>
     </modules>
 </project>
