@@ -12,5 +12,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>solid-lsp-start</module>
+        <module>solid-lsp-end</module>
     </modules>
 </project>
