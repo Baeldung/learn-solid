@@ -12,5 +12,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>the-project-we-are-using</module>
     </modules>
 </project>
+
