@@ -12,5 +12,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>ocp-practice-start</module>
+        <module>ocp-practice-end</module>
     </modules>
 </project>
